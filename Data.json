@@ -1,19 +1,14 @@
-[{
- "id": 1,
- "date" : "00-20-2024" ,
- "description" : "lanch",
- "price" : 20
-},
-{
-    "id": 2,
-    "date" : "00-20-2024" ,
-    "description" : "lanch",
-    "price" : 20
-},
-{
-    "id": 3,
-    "date" : "00-20-2024" ,
-    "description" : "lanch",
-    "price" : 20
-}
+[
+  {
+    "id": 0,
+    "date": "2024-10-19",
+    "description": "lanch",
+    "price": 32.33
+  },
+  {
+    "id": 1,
+    "date": "2024-10-19",
+    "description": "lanch",
+    "price": 32.33
+  }
 ]
